@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_utc": "2026-09-14T09:41:15+00:00",
+  "generated_utc": "2026-09-14T19:31:14+00:00",
   "source_directory": "C:\\Users\\-_-\\Documents\\GitHub\\VRC-AD-Posters",
   "atlas_file": "banner_atlas.png",
   "config_file": "banner_atlas.txt",
@@ -64,11 +64,11 @@
       "index": 2,
       "filename": "3.png",
       "source_size": [
-        270,
-        480
+        720,
+        1280
       ],
       "source_aspect": 0.5625,
-      "sha256": "1c7899c84fdb2f9bc6b3c6f60b4e1b1d64dc7ce7e4148c99061a904a509d1e9c",
+      "sha256": "b3327935db37c09b678737eb94899ed2025512e0faae1c07cbc5d1126d5d251a",
       "duplicate_of": null,
       "column": 2,
       "row_top_to_bottom": 0,
