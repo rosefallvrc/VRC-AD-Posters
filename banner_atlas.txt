@@ -1,13 +1,13 @@
 # Rosefall VRChat Banner Atlas Config v2
 version=2
-columns=3
+columns=2
 rows=2
-image_count=6
+image_count=4
 cell_width=288
 cell_height=512
-atlas_width=864
+atlas_width=576
 atlas_height=1024
 order=top_left_row_major
 fit=cover
 atlas_file=banner_atlas.png
-generated_utc=2026-09-14T19:31:14+00:00
+generated_utc=2026-10-05T13:43:20+00:00
