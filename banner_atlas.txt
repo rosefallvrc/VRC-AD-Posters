@@ -2,7 +2,7 @@
 version=2
 columns=1
 rows=1
-image_count=0
+image_count=1
 cell_width=288
 cell_height=512
 atlas_width=288
@@ -10,4 +10,4 @@ atlas_height=512
 order=top_left_row_major
 fit=cover
 atlas_file=banner_atlas.png
-generated_utc=2026-10-22T16:09:40+00:00
+generated_utc=2026-10-22T16:25:58+00:00
