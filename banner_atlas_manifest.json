@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_utc": "2026-10-22T17:36:03+00:00",
+  "generated_utc": "2026-10-22T18:35:05+00:00",
   "source_directory": ".",
   "atlas_file": "banner_atlas.png",
   "config_file": "banner_atlas.txt",
@@ -13,22 +13,17 @@
   "atlas_height": 1024,
   "fit": "cover",
   "order": "top_left_row_major",
-  "duplicates": [
-    {
-      "index": 2,
-      "duplicate_of": 0
-    }
-  ],
+  "duplicates": [],
   "entries": [
     {
       "index": 0,
       "filename": "1.png",
       "source_size": [
-        720,
-        1280
+        1080,
+        1920
       ],
       "source_aspect": 0.5625,
-      "sha256": "b0faf189c9c4ef28fd9c5f382b573f899ca16d335b869235fc031830eee58f9c",
+      "sha256": "82c610ef8f49b9753fa8fb5dc25e0ca172eabdffaef9c591395607d34796dd91",
       "duplicate_of": null,
       "column": 0,
       "row_top_to_bottom": 0,
@@ -69,7 +64,7 @@
       ],
       "source_aspect": 0.5625,
       "sha256": "b0faf189c9c4ef28fd9c5f382b573f899ca16d335b869235fc031830eee58f9c",
-      "duplicate_of": 0,
+      "duplicate_of": null,
       "column": 0,
       "row_top_to_bottom": 1,
       "unity_row_bottom_to_top": 0,
