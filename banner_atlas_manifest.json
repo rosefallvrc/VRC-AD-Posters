@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "generated_utc": "2026-10-22T15:51:20+00:00",
+  "source_directory": ".",
+  "atlas_file": "banner_atlas.png",
+  "config_file": "banner_atlas.txt",
+  "image_count": 0,
+  "columns": 1,
+  "rows": 1,
+  "cell_width": 288,
+  "cell_height": 512,
+  "atlas_width": 288,
+  "atlas_height": 512,
+  "fit": "cover",
+  "order": "top_left_row_major",
+  "duplicates": [],
+  "entries": []
+}
