@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_utc": "2026-10-22T18:35:05+00:00",
+  "generated_utc": "2026-11-09T19:44:47+00:00",
   "source_directory": ".",
   "atlas_file": "banner_atlas.png",
   "config_file": "banner_atlas.txt",
@@ -23,7 +23,7 @@
         1920
       ],
       "source_aspect": 0.5625,
-      "sha256": "82c610ef8f49b9753fa8fb5dc25e0ca172eabdffaef9c591395607d34796dd91",
+      "sha256": "f336faae9b879a28aa3f92786f6fc04dba5914b63e44e7284393a3548bf1f033",
       "duplicate_of": null,
       "column": 0,
       "row_top_to_bottom": 0,
